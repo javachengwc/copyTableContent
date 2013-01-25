@@ -1,0 +1,3 @@
+package org.saiku.copyTableContent.tableBeans;
+public class Hello{
+}
